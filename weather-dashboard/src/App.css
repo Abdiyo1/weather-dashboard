@@ -1,0 +1,11 @@
+.app {
+  font-family: 'Arial', sans-serif;
+}
+
+.weather-card {
+  transition: transform 0.3s;
+}
+
+.weather-card:hover {
+  transform: translateY(-5px);
+}
